@@ -1,0 +1,41 @@
+
+body {
+    width: 800px;
+    padding: 60px;
+    margin-top: -35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+body {
+    text-align: center;
+    font-family: 'Hammersmith One', sans-serif;
+
+}
+
+a {margin-top: 10px;
+    font-size: 11.5pt;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F4F1DC;
+}
+
+h1 {padding-bottom: -10px;
+    font-size: 20pt;
+    letter-spacing:; 10px; 
+    color: #fff;
+    text-transform: uppercase;
+}
+
+p {color:white;
+    font-size: 8pt;
+    line-height: 10pt;
+}
+
+ul {color:white;
+    font-size: 10pt; 
+line-height: 20pt}
